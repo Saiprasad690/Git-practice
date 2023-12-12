@@ -9,3 +9,9 @@ To change the origin
 git remote -v ----to verify the name
 git remote add <new name> repository url
 git remote remove origin
+
+                       TO RENAME THE ORIGIN
+Git remote rename <oldname> <newname>
+
+                            TO REMOVE
+Git remote remove <name>
