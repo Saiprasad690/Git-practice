@@ -1,0 +1,11 @@
+Create a file in local 
+Git init----------> This command will convert working directoriy into github repository
+git add .
+git commit -m "description"
+Copy the link of repository and run git remote add origin URL
+git push origin master
+
+To change the origin
+git remote -v ----to verify the name
+git remote add <new name> repository url
+git remote remove origin
